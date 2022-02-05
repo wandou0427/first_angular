@@ -7,4 +7,5 @@ const routes: Routes = [];
   imports: [RouterModule.forRoot(routes)],
   exports: [RouterModule]
 })
+// git提交测试
 export class AppRoutingModule { }
